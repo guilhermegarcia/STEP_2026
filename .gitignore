@@ -1,9 +1,4 @@
 scripts_priv/*
-slides/*
+step2026_garcia/*
 !slides/STEP_2025_garcia.pdf
-# Ignore everything in output directory
-/step2026_garcia/*
-
-# But not the PDF files
-!/step2026_garcia/*.pdf
-
+.Rhistory
