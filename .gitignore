@@ -1,4 +1,5 @@
 scripts_priv/*
+slides_old/*
 step2026_garcia/*
 !slides/STEP_2025_garcia.pdf
 .Rhistory
