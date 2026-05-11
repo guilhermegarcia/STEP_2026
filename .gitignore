@@ -1,3 +1,4 @@
+*.pdf
 scripts_priv/*
 slides_old/*
 slides/day_1/*
