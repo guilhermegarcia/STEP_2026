@@ -1,5 +1,7 @@
 scripts_priv/*
 slides_old/*
-step2026_garcia/*
-!slides/STEP_2025_garcia.pdf
+slides/day_1/*
+slides/day_3/*
+!slides/day_1/*.pdf
+!slides/day_3/*.pdf
 .Rhistory
