@@ -1,5 +1,6 @@
 *.pdf
-scripts_priv/*
+scripts_priv/
+scripts/.quarto/
 slides_old/*
 slides/day_1/*
 slides/day_3/*
