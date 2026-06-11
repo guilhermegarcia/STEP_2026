@@ -15,3 +15,39 @@ This workshop focuses on data visualization using R and versatile packages such 
 Prior experience: basic knowledge of R and basic stats
 
 Pre-reading: Garcia, G. D. (2021). *Data visualization and analysis in second language research*. New York, NY: Routledge. Chapters 3, 4, and 5.
+
+## Getting started
+
+### Option 1: Posit Cloud
+
+Use this option if you are not familiar with Git.
+
+1. Create an account at [posit.cloud](https://posit.cloud/).
+2. Click on "New Project" > "New Project from Git Repository".
+3. Paste this URL: `https://github.com/guilhermegarcia/STEP_2026.git`.
+4. This will create a new project with all the files we'll use during the course.
+5. Open the R console and install the course packages:
+
+```r
+install.packages("tidyverse")
+```
+
+### Updating the course files
+
+To update your project files, click on the `Terminal` tab and run:
+
+```sh
+git fetch origin && git reset --hard origin/main
+```
+
+Warning: this resets the course files to match the GitHub repository. Any notes you added directly to course scripts may be deleted. Put your own notes in a separate folder, such as `my_files`. If you add notes to a course script and then reset the project, **your notes will disappear**.
+
+### Option 2: Local Git setup
+
+If you already use Git, clone the repository with:
+
+```sh
+git clone https://github.com/guilhermegarcia/STEP_2026.git
+```
+
+You can then use whichever editor or R environment you prefer.
