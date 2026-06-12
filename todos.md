@@ -7,6 +7,7 @@
 - [ ] Practice
 - [ ] Summarizing key points
 - [ ] Main `geoms`
+- [ ] Saving plots
   - [ ] scope: local vs global
   - [ ] multiple variables
 - [ ] Piped operations with `ggplot2`
@@ -21,6 +22,7 @@
 - [ ] Practice
 - [ ] Percentages in `ggplot2`
 - [ ] Aesthetics
+  - [ ] Themes
   - [ ] Colours
   - [ ] Fonts
   - [ ] Sizes
@@ -35,5 +37,4 @@
 - [ ] Plotting individual var
 - [ ] Visualizing models
 - [ ] Plotting model predictions
-- [ ] Saving plots
 - [ ] Intro to Quarto
