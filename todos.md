@@ -2,14 +2,14 @@
 
 ## Day 1
 
-- [ ] Intro
-- [ ] Survey
-- [ ] Practice
-- [ ] Summarizing key points
-- [ ] Main `geoms`
+- [x] Intro
+- [x] Survey
+- [x] Practice
+- [x] Summarizing key points
+- [x] Main `geoms`
 - [ ] Saving plots
-  - [ ] scope: local vs global
-  - [ ] multiple variables
+  - [x] scope: local vs global
+  - [x] multiple variables
 - [ ] Piped operations with `ggplot2`
 - [ ] Practice
 
