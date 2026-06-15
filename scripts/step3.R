@@ -23,10 +23,6 @@ rc <- read_csv("data/rClauseData-3.csv")
 # Here's one way to combine different dimensions of the data
 # What are some potential problems here...?
 
-# NOTE: How about categorical data?
-# If the response is binary and we can create a 0/1
-# column, things tend to be straightforward:
-
 # QUESTION: How can you show by-item variation in a figure?
 # What changes will be necessary given the structure of the data?
 
