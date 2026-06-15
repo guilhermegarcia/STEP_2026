@@ -7,34 +7,34 @@
 - [x] Practice
 - [x] Summarizing key points
 - [x] Main `geoms`
-- [ ] Saving plots
+- [x] Saving plots
   - [x] scope: local vs global
   - [x] multiple variables
-- [ ] Piped operations with `ggplot2`
-- [ ] Practice
+- [x] Piped operations with `ggplot2`
+- [x] Practice
 
 ## Day 2
 
-- [ ] Review
-- [ ] Data cleaning
-- [ ] W2L transformation
-- [ ] Functions across cols
-- [ ] Practice
-- [ ] Percentages in `ggplot2`
-- [ ] Aesthetics
-  - [ ] Themes
-  - [ ] Colours
-  - [ ] Fonts
-  - [ ] Sizes
-  - [ ] Labels
-  - [ ] `coord_flip()`
-  - [ ] Snippets and Markdown
-- [ ] Practice
-  - [ ] `geom_label()`
+- [x] Review
+- [x] Data cleaning
+- [x] W2L transformation
+- [x] Functions across cols
+- [x] Practice
+- [x] Percentages in `ggplot2`
+- [x] Aesthetics
+  - [x] Themes
+  - [x] Colours
+  - [x] Fonts
+  - [x] Sizes
+  - [x] Labels
+  - [x] `coord_flip()`
+  - [x] Snippets and Markdown
+- [x] `geom_label()`
 
 ## Day 3
 
 - [ ] Plotting individual var
+- [ ] Interactive plots
 - [ ] Visualizing models
 - [ ] Plotting model predictions
 - [ ] Intro to Quarto
