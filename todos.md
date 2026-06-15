@@ -33,8 +33,8 @@
 
 ## Day 3
 
-- [ ] Plotting individual var
-- [ ] Interactive plots
-- [ ] Visualizing models
-- [ ] Plotting model predictions
-- [ ] Intro to Quarto
+- [x] Plotting individual var
+- [x] Interactive plots
+- [x] Visualizing models
+- [x] Plotting model predictions
+- [x] Intro to Quarto
