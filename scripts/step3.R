@@ -47,3 +47,9 @@ aov(RT ~ Affix, data = d) |>
 # NOTE: Part 3: Extras
 # plotly for interactive plots
 # Quarto & Typst
+#
+# HACK: References
+# Paper on how inference can be misleading depending on how we present our data:
+# S. Zhang, P.R. Heck, M.N. Meyer, C.F. Chabris, D.G. Goldstein, & J.M. Hofman, An illusion of predictability in scientific results: Even experts confuse inferential uncertainty and outcome variability, Proc. Natl. Acad. Sci. U.S.A. 120 (33) e2302491120, https://doi.org/10.1073/pnas.2302491120 (2023).
+# Paper on multiple comparisons using Bayesian methods + visualization:
+# https://gdgarcia.ca/multcomp
