@@ -10,7 +10,7 @@ This workshop focuses on data visualization using R and versatile packages such 
 
 - **Day 2** emphasizes data transformation using `dplyr`, customization using scales, grids, as well as the functional use of aesthetics to showcase group and condition effects.
 
-- **Day 3** explores Quarto and specialized techniques for visualizing individual variation, statistical model estimates, and creating interactive plots to analyze complex experimental outcomes. We will also see how to combine data analysis and linguistic elements into a document using Typst via Quarto. **To run the final Quarto file, you have to have installed Fonology**: run this in your console `pak::pak("guilhermegarcia/Fonology")`.
+- **Day 3** explores Quarto and specialized techniques for visualizing individual variation, statistical model estimates, and creating interactive plots to analyze complex experimental outcomes. We will also see how to combine data analysis and linguistic elements into a document using Typst via Quarto. **To run the final Quarto file, you have to have installed Fonology**: run this in your console `pak::pak("guilhermegarcia/Fonology")`. Also, note that `posit.cloud` uses an older version of Typst (as of June 2026), so you may not be able to render the `Qmd` file as is depending on when you're trying to do it. Simply avoid using the online editor (it was useful for our course, but it has its limitations), and favour instead your local installatino of R + your editor of choice.
 
 Prior experience: basic knowledge of R and basic stats
 
